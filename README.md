@@ -20,4 +20,7 @@ chsh -s /bin/zsh
 ```
 
 4. Restart your computer
-	
+
+5. Download ```.hyper.js``` and copy the file into your home directory
+
+6. Enjoy hyper with zsh :-)	
