@@ -1,6 +1,7 @@
 # rupi-terminal
 My beautiful and very useful terminal configuration with hyper and zsh
-![the terminal on my working computer](https://github.com/derrupi/rupi-terminal/Screenshot.jpg)
+
+![the terminal on my working computer](https://github.com/derrupi/rupi-terminal/blob/master/Screenshot.jpg)
 
 ## installation
 I tested this on linux and mac.  
