@@ -25,4 +25,12 @@ chsh -s /bin/zsh
 
 5. Download ```.hyper.js``` and copy the file into your home directory
 
-6. Enjoy hyper with zsh :-)	
+6. Git clone ```zsh-autosuggestions``` for autocomplete
+
+```
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
+```
+
+7. Download ```.zshrc``` and copy the file into your home directory
+
+8. Enjoy hyper with zsh :-)	
