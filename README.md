@@ -21,7 +21,7 @@ which zsh
 chsh -s /bin/zsh
 ```
 
-4. Restart your computer
+4. Restart your computer ``` shutdown -h now```
 
 5. Download ```.hyper.js``` and copy the file into your home directory
 
@@ -31,6 +31,7 @@ chsh -s /bin/zsh
 git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
 ```
 
-7. Download ```.zshrc``` and copy the file into your home directory
+7. Download ```.zshrc``` and copy the file into your home directory. You have to change your path of your current zsh installation. 
 
 8. Enjoy hyper with zsh :-)	
+
